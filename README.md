@@ -4,7 +4,7 @@
 [![Colab üzerinde yapılan eğitim](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y8_SwpkfWoPPDrtT0Rl8iMoG4SnnaSUA?usp=sharing) 
 
 
-
+Bu proje Tensorflow Object Detection API ve COLAB teknolojileri kullanılarak yazılmıştır
 
 Adım adım nesne tanımayı anlattığım blog yazıma aşağıdaki linkten ulaşabilirsiniz
 
