@@ -1,7 +1,8 @@
 # CustomObjectDetector
 
 Eğitim 
-[![Open In Colab] https://colab.research.google.com/drive/1y8_SwpkfWoPPDrtT0Rl8iMoG4SnnaSUA?usp=sharing 
+
+[![Open In Colab] (https://colab.research.google.com/drive/1y8_SwpkfWoPPDrtT0Rl8iMoG4SnnaSUA?usp=sharing) 
 
 
 
